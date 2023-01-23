@@ -415,7 +415,7 @@ void explainExtra()
 
     int maxi = *max_element(a, a + n); // Originally returns the address of the max element
     // To get the value we add a * to it.
-    // Similarly, min_element is also there. 
+    // Similarly, min_element is also there.
 }
 
 int main()
